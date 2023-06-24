@@ -1,0 +1,8 @@
+kunings:
+rgb(256,180,20)
+
+biru:
+rgb(40,52,84)
+
+blueGradient:
+#53677f
