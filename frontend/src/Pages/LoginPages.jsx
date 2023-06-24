@@ -24,7 +24,8 @@ const LoginPages = ({setUsers}) => {
                 alert(res.data.message)
             }
         } catch (error) {
-            console.log(error)
+            alert(error)
+            navigate('/home')
         }
     }
 
